@@ -3,17 +3,17 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Golang
   - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Kubernetes
+  - Ruby on Rails
+  - Service Meshes
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hey! I'm Kush, a software engineer based in Indore, IN.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I am a pre-final year computer science undegraduate student at [IIT, Jodhpur](https://www.iitj.ac.in). I have been involved in open-source projects for more than a year and have contributed to various top notch organisations like CNCF, Fossasia, OpenRefine & Layer5.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+I have industry experience of more than 1.5 year with internships at [CNCF](https://www.cncf.io), [GoJek](https://www.gojek.com) & [Fossasia](https://www.fossasia.org). I have mentored pre-university students during [Google Code-In 2019](https://codein.withgoogle.com) for TensorFlow & Fossasia.
 
 Here are a few technologies I've been working with recently:
