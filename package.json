@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "animejs": "^3.1.0",
+    "gatsby-remark-code-titles": "^1.1.0",
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.18.7",
     "gatsby-cli": "^2.12.21",
