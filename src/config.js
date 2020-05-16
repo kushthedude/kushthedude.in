@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Kush Trivedi | Software Engineer',
   siteDescription:
-    'Kush Trivedi is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Hey, I am Kush! A software developer based in Indore, IN.',
   siteKeywords: 'Kush Trivedi, Kush, Trivedi, kushthedude, gsoc, meshery, meshes',
   siteUrl: 'https://kushthedude.co',
   siteLanguage: 'en_US',
