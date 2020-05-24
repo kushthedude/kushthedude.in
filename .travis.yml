@@ -1,0 +1,32 @@
+language: node_js
+
+node_js:
+  - "12"
+
+env:
+  - CXX=g++-4.8 JOBS=1 PATH=$PATH:${HOME}/google-cloud-sdk/bin CLOUDSDK_CORE_DISABLE_PROMPTS=1
+
+cache:
+  yarn: true
+
+addons:
+  chrome: stable
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
+
+before_install:
+  - export PATH="$(yarn global bin):$PATH"
+
+install: yarn
+
+script:
+  - yarn add gatsby-cli
+  - yarn build
+
+
+branches:
+  only:
+    - master
