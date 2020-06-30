@@ -37,7 +37,7 @@ const StyledSocialLink = styled.a`
 `;
 const StyledMetadata = styled.div`
   font-family: ${fonts.SFMono};
-  font-size: 0.35em;
+  font-size: 0.25em;
   line-height: 1;
 `;
 const StyledGitHubLink = styled.a`
@@ -105,7 +105,7 @@ const Footer = () => {
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; by Brittany Chiang</div>
+          <div>Designed by Brittany Chiang</div>
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
