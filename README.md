@@ -1,5 +1,7 @@
 ## kushthedude.co
 
+[![Build Status](https://travis-ci.com/kushthedude/kushthedude.co.svg?token=dJyNxXgHH7ArQtKQEcyy&branch=master)](https://travis-ci.com/kushthedude/kushthedude.co)
+
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
