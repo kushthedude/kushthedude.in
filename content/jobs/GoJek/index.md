@@ -7,5 +7,6 @@ range: 'May 2020 - July 2020'
 url: 'https://gojek.com'
 ---
 
-- Create mechant onboarding portal for GoPay using RoR, with two-factor authentication.
-- Use m-TLS authentication for the onboarding & provide facility of different roles on the portal.
+- Created onboarding-service for smooth onboarding of merchants and payment partners on GoPay (a cashless payment platform for GO-JEK).
+- Implemented a gRPC server & a ruby client invoked in rails application to talk to the service.
+- Worked in fast-paced environment, followed test-driven development & agile methodology.
