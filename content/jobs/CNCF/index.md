@@ -3,7 +3,7 @@ date: '2020-05-16'
 title: 'Google Summer of Code Student'
 company: 'CNCF'
 location: 'Remote'
-range: 'May 2020 - Present'
+range: 'May 2020 - August 2020'
 url: 'https://www.cncf.io'
 ---
 

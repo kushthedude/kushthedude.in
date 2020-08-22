@@ -3,7 +3,7 @@ date: '2019-05-16'
 title: 'Software Engineering Internship'
 company: 'Fossasia'
 location: 'Singapore'
-range: 'May - Aug 2019'
+range: 'May 2019 - August 2019'
 url: 'https://www.fossasia.org'
 ---
 

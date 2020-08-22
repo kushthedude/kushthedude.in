@@ -3,7 +3,7 @@ date: '2019-12-01'
 title: 'Google Code In Mentor'
 company: 'Fossasia'
 location: 'Remote'
-range: 'Dec 2019 - Feb 2020'
+range: 'December 2019 - February 2020'
 url: 'https://www.fossasia.org'
 ---
 

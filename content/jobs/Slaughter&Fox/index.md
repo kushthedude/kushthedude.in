@@ -3,7 +3,7 @@ date: '2019-07-14'
 title: 'Product Manager Intern'
 company: 'Slaughter & Fox'
 location: 'Remote'
-range: 'Jul - Aug 2019'
+range: 'July 2019 - Aug 2019'
 url: 'https://www.sourcak.com/'
 ---
 
