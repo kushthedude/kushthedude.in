@@ -37,7 +37,7 @@
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-images": "^3.3.29",
     "gatsby-remark-prismjs": "^3.5.11",
-    "gatsby-source-filesystem": "^2.3.24",
+    "gatsby-source-filesystem": "^2.3.29",
     "gatsby-transformer-remark": "^2.8.33",
     "gatsby-transformer-sharp": "^2.5.13",
     "lodash": "^4.17.20",
