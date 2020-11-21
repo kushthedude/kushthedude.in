@@ -1,6 +1,6 @@
 ---
 date: '2020-09-16'
-title: 'CommunityBridge Intern with Open Service Mesh'
+title: 'CommunityBridge Intern'
 company: 'The Linux Foundation'
 location: 'Remote'
 range: 'Ocotober 2020 - December 2020'
