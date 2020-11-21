@@ -19,7 +19,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "animejs": "^3.2.0",
+    "animejs": "^3.2.1",
     "gatsby-remark-code-titles": "^1.1.0",
     "babel-plugin-styled-components": "^1.11.1",
     "gatsby": "^2.24.91",
