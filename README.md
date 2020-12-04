@@ -1,6 +1,6 @@
-## kushthedude.co
+## kushthedude.in
 
-[![Build Status](https://travis-ci.com/kushthedude/kushthedude.co.svg?token=dJyNxXgHH7ArQtKQEcyy&branch=master)](https://travis-ci.com/kushthedude/kushthedude.co)
+[![Build Status](https://travis-ci.com/kushthedude/kushthedude.in.svg?token=dJyNxXgHH7ArQtKQEcyy&branch=master)](https://travis-ci.com/kushthedude/kushthedude.in)
 
 ## 🛠 Installation & Set Up
 
