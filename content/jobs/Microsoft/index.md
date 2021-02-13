@@ -3,7 +3,7 @@ date: '2020-08-04'
 title: 'Cloud Native Intern'
 company: 'Microsoft'
 location: 'Remote'
-range: 'August 2020 - Jan 2021'
+range: 'August 2020 - January 2021'
 url: 'https://affirmednetworks.com'
 ---
 
